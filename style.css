@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#btn{
+    height: 40px;
+    width: 100px;
+    color: rgb(29, 28, 28);
+    border: none;
+    background-color: #f87b0d;
+    border-radius: 5px;
+
+
+}
+.container{
+    width: 400px;
+    height: 400px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+    border: 1px solid black;
+}
